@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://the-gourmet-kitchen.onrender.com/",
+  "proxy": "https://backend-1jvd.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
